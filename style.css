@@ -80,4 +80,8 @@ a{
     .coming, .mail{
         font-size: 12pt;
     }
+    .logo {
+        position: absolute;
+        width: 160px;
+    }
 }
